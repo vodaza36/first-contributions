@@ -6645,3 +6645,4 @@ Bhavesh Chandrakant Joshi
 - [Sol](https://github.com/SoliMark)
 - [Harrylepap](https://github.com/harrylepap)
 - Lo Voelsen
+- [Thomas Hochbichler](https://github.com/vodaza36)
